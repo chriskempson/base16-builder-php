@@ -1,0 +1,10 @@
+{
+    "require": {
+        "symfony/yaml": "^6.1",
+        "mustache/mustache": "^2.9",
+        "mexitek/phpcolors": "dev-master"
+    },
+     "autoload": {
+        "psr-4": {"Base16\\": "src/"}
+    }
+}
